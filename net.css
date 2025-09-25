@@ -1,0 +1,123 @@
+#bg{
+    background: url("https://assets.nflxext.com/ffe/siteui/vlv3/c95abc7a-8124-4630-bb7a-3b160bdc6de3/web/IN-en-20250915-TRIFECTA-perspective_d3d87aa7-58ed-4c6b-98dc-231ed05ba675_small.jpg");
+    background-color: rgba(31, 31, 31, 0.8);
+
+    
+}
+#i1{
+    width: 198px;
+    height: 11.5%;
+    margin-top: 3%;
+    padding: 5px;
+    margin-left: 7%;
+    
+    
+}
+#b1{
+    position: absolute;
+    margin-top: 3%;
+    padding: 5px;
+    margin-left: 66%;
+    width: 60px;
+    height: 4.5%;
+    background: red;
+    border-radius: 3%;
+    color: aliceblue;
+
+}
+#C{
+    position: absolute;
+    margin-top: 3%;
+    padding: 5px;
+    margin-left: 55%;
+    background: rgba(0,0,0,0.8);
+    color: aliceblue;
+    font-size: medium;
+    border-radius: 10%;
+}
+#B{
+    margin-left: 80%;
+    margin-top: 5%;
+    color: aliceblue;
+    text-align: center;
+
+}
+h1{
+    font-weight:700;
+    font-size: 50px ;
+    top: 40%;
+    padding-top: 200px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+input{
+    margin-left:28%;
+    align-items: center;
+    width: 300px;
+    height: 46px;
+    background: rgba(0,0,0,0.8);
+    border-radius:3%;
+    padding-left: 3%;
+}
+#b2{
+    font-size: larger;
+    background: red;
+    width: 200px;
+    height: 50px;
+    border-radius: 3%;
+    color: aliceblue;
+}
+#main{
+    background-color: rgba(0,0,0,0.8);
+    margin-bottom: 0px;
+    /* position:relative; */
+    top: 0%;
+    width: 100%;
+
+}
+#content-list{
+    background-color: black;
+}
+#content-images{
+    margin: 86px;
+}
+.content-image{
+    width: 200px;
+    padding: 10px;
+}
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+.reason-box {
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  vertical-align: top; 
+  margin: 10px;
+  box-sizing: border-box;
+  background-color: rgba(53, 0, 200, 0.226);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 35px;
+  color: aliceblue;
+
+}
+#second-content{
+    background-color: black;
+}
+#TRENDING{
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: 0;
+    color: white;
+    padding-top: 120px;
+    padding-left: 50px;
+    font-size: 35px;
+    
+
+}
